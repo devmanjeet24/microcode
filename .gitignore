@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# React build
+frontend/build/
+
+# Logs
+logs/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Optional: if you use dist folders
+dist/
+
+# Cache
+*.cache
+.cache/
